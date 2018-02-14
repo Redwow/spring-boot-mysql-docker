@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot MySQL Docker Demo
 
 ## Introduction
@@ -61,3 +62,7 @@ This is the end!
 
 
 
+=======
+# spring-boot-mysql-docker
+SpringBoot+MySQL+Docker ( based on rjgeek/spring-boot-mysql-docker )
+>>>>>>> b7586937abe338d8220bb4b3b587925d96f0efd2
